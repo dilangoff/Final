@@ -3,10 +3,6 @@ Hi my name is Dilan Goff and this is my finale exam project I made a drawing wit
 reviewers about it
 '''
 
-
-
-
-
 import turtle
 
 my_turtle = turtle.Turtle()
